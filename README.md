@@ -188,6 +188,7 @@ A curated list of amazingly awesome awesomeness.
 	- Datasets
 		- [by @caesar0301](https://github.com/caesar0301/awesome-public-datasets)
 		- [by @leomaurodesenv](https://github.com/leomaurodesenv/game-datasets)
+	- [DCS World](https://github.com/DaKerboul/awesome-dcs-world)
 	- Deep Learning
 		- [by @ChristosChristofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
 		- [by @guillaume-chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
